@@ -17,4 +17,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: A través de cálculos matemáticos.
   checked: false
-name: "¿Programar? ... ¡Si! ... ¡Programar!"
+name: "¿Programar? ... ¡Sí! ... ¡Programar!"
